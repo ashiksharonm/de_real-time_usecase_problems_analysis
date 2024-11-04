@@ -2,13 +2,15 @@
 
 This project demonstrates the real-time use cases for data engineering.
 
-Done by: **Ashik Sharon M**
-Register No: **24MAI0098**
-Programme:** M.Tech AI ML**
-Course: **Data Engineering**
+Done by: Ashik Sharon M
+
+Register No: 24MAI0098
+
+Programme: M.Tech AI ML
+Course: Data Engineering
 
 
-**Use Case 1: Real-Time Sales Data Analysis and Insights        **   
+Use Case 1: Real-Time Sales Data Analysis and Insights
 
 Problem Statement:
                                   You are working for a retail company that wants to gain insights into their sales performance across different stores and products. The company has been collecting real-time sales data from multiple stores, and your task is to clean, process, and analyze the data to derive meaningful insights and create visual representations.
@@ -47,7 +49,7 @@ Expected Outcome:
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**Use Case 2: Data Pipeline for Customer Feedback Analysis   **      
+Use Case 2: Data Pipeline for Customer Feedback Analysis  
 
 
 Problem Statement:
